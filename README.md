@@ -1,2 +1,2 @@
 # Timer
-My first web-programm
+My first web-program
